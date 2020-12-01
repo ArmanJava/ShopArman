@@ -6,9 +6,7 @@ import ru.market.shopapi.entity.User;
 
 import java.util.Collection;
 
-/**
- * Created By Zhu Lin on 3/10/2018.
- */
+
 public interface CartService {
     Cart getCart(User user);
 

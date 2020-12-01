@@ -2,9 +2,7 @@ package ru.market.shopapi.vo.response;
 
 import lombok.Data;
 
-/**
- * Created By Zhu Lin on 1/1/2019.
- */
+
 @Data
 public class JwtResponse {
     private String token;

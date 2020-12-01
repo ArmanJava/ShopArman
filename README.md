@@ -1,19 +1,5 @@
 
 
-
-
-## Features
-- REST API
-- Docker
-- Docker Compose
-- JWT authentication
-- Cookie based visitors' shopping cart
-- Persistent customers' shopping cart
-- Cart & order management
-- Checkout
-- Catalogue
-- Order management
-- Pagination
 ## Technology Stacks
 **Backend**
   - Java 11
