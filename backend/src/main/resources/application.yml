@@ -12,7 +12,7 @@ spring:
     show-sql: false
 #    generate-ddl: false
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
     database: postgresql
     properties:
       hibernate:
@@ -42,5 +42,4 @@ server:
 #
 jwtSecret: ru.arm
 jwtExpiration: 30679
-#jwtSecret: me.zhulin
-#jwtExpiration: 86400
+
